@@ -1,0 +1,5 @@
+#Mi segundo programa
+# Lee unos caracteres y conforme responda con mi nombre, responde el programa
+print("Como te llamas ")
+nombre=input()
+print("Hola "+nombre+" encantado de conocerte.")
