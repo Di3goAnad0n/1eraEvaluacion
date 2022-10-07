@@ -1,0 +1,7 @@
+# otro programa mas con bucles
+#cuenta atras
+def cuenta_atras():
+    for cont in range(0,100,2):
+       print(cont)
+    print("estos son los numeros pares")  
+cuenta_atras()
