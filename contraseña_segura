@@ -18,7 +18,7 @@ def password_check(passwd) :
         print('Password should have at least one lowercase letter') 
         val = False
     if not any(char in SpecialSym for char in passwd): 
-        print('Password should have at least one of the symbols $@#') 
+        print('Password should have at least one of the symbols $@#%') 
         val = False
     if val: 
         return val 
